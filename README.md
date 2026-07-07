@@ -215,11 +215,16 @@ inside the **results/** folder.
 
 ## Dataset
 
-The dataset is not included in this repository due to GitHub file size limitations.
+The dataset is not included in this repository because of GitHub file size limitations.
 
-Dataset Source:
+Download the dataset from Kaggle:
+
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
-AI / Machine Learning Enthusiast
+
+After downloading, place the files inside:
+
+data/raw/
+data/processed/
 
 GitHub: https://github.com/kanak12219836
 
