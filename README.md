@@ -213,6 +213,12 @@ inside the **results/** folder.
 
 **Kanak Sharma**
 
+## Dataset
+
+The dataset is not included in this repository due to GitHub file size limitations.
+
+Dataset Source:
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 AI / Machine Learning Enthusiast
 
 GitHub: https://github.com/kanak12219836
